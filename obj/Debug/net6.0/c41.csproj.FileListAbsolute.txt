@@ -1,0 +1,15 @@
+C:\Users\Олег\Desktop\c41\bin\Debug\net6.0\c41.exe
+C:\Users\Олег\Desktop\c41\bin\Debug\net6.0\c41.deps.json
+C:\Users\Олег\Desktop\c41\bin\Debug\net6.0\c41.runtimeconfig.json
+C:\Users\Олег\Desktop\c41\bin\Debug\net6.0\c41.dll
+C:\Users\Олег\Desktop\c41\bin\Debug\net6.0\c41.pdb
+C:\Users\Олег\Desktop\c41\obj\Debug\net6.0\c41.csproj.AssemblyReference.cache
+C:\Users\Олег\Desktop\c41\obj\Debug\net6.0\c41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Олег\Desktop\c41\obj\Debug\net6.0\c41.AssemblyInfoInputs.cache
+C:\Users\Олег\Desktop\c41\obj\Debug\net6.0\c41.AssemblyInfo.cs
+C:\Users\Олег\Desktop\c41\obj\Debug\net6.0\c41.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\c41\obj\Debug\net6.0\c41.dll
+C:\Users\Олег\Desktop\c41\obj\Debug\net6.0\refint\c41.dll
+C:\Users\Олег\Desktop\c41\obj\Debug\net6.0\c41.pdb
+C:\Users\Олег\Desktop\c41\obj\Debug\net6.0\c41.genruntimeconfig.cache
+C:\Users\Олег\Desktop\c41\obj\Debug\net6.0\ref\c41.dll
